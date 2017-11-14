@@ -6,6 +6,7 @@ class Xfe < Formula
   # sha256 ""
 
   depends_on "cmake" => :build
+  depends_on "eigen"
 
   def install
     ENV.cxx11
