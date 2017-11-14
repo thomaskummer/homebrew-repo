@@ -5,7 +5,7 @@
 class Xfe < Formula
   desc ""
   homepage ""
-  url "https://n.ethz.ch/~kummerth/x-fe.tar.gz"
+  url "https://n.ethz.ch/~kummerth/xfe.tar.gz"
   #sha256 "59a1c8867f3b2f7cf166b158961ac539a30452c6720a3c143ed9b268a743999d"
 
   depends_on "cmake" => :build
